@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
       <Text>
-        { somar(50, 25) }
+        Aplicação
       </Text>
     </View>
   )
